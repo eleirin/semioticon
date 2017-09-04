@@ -1,18 +1,20 @@
 Introduction
 ===
-Semioticon are words akin to emoticons that are designed to represent and convey a complex set of emotions using simple symbols and a complex grammar,
-Okay, it's quite the preposterous opening, seeing how many users of this language there actually is: 5.
-Well, anyway, let's carry on.
+Semioticon are words akin to emoticons that are designed to represent and convey a complex set of emotions using simple symbols and a complex grammar.  
+Okay, it's quite the preposterous opening, seeing how many users of this language there actually is: 5.  
+Well, anyway, let's carry on.  
 This little note I hereby give you to read is a summary, a guide to this language as it has had developped as of now.
 
-What is the puprpose of such language, why would it be of any interest? Well, languages structure our very thought, and I thought that thereby, a language designed _solely_ to convey emotions -not context- would be pretty interesting and useful in that it forces one to structure their speech around emotions.
-I will continue on about some choices and design directions, as well as some suggestions that have not been incorporated yet.
-It is of course totally allowed, heck even encouraged, that anyone -read, you- can modify it and add as many features as they need to cover their owns, missing complexions, missing expletions.
-I also enjoy feedbacks a lot, feel free to mention and discuss any useful modification you have had made or do think about onto this language.
-Last but not least, it is as far as I know easier to begin studying his language by getting used to the symbols, only to then fix it all, condense it by its grammar. I say this in case it would seem too thick to even find a point by which you could penetrate through.
+What is the puprpose of such language, why would it be of any interest? Well, languages structure our very thought, and I thought that thereby, a language designed _solely_ to convey emotions -not context- would be pretty interesting and useful in that it forces one to structure their speech around emotions.  
+I will continue on about some choices and design directions, as well as some suggestions that have not been incorporated yet.  
+It is of course totally allowed, heck even encouraged, that anyone -read, you- can modify it and add as many features as they need to cover their owns, missing complexions, missing expletions.  
+I also enjoy feedbacks a lot, feel free to mention and discuss any useful modification you have had made or do think about onto this language.  
+Last but not least, it is as far as I know easier to begin studying his language by getting used to the symbols, only to then fix it all, condense it by its grammar. I say this in case it would seem too thick to even find a point by which you could penetrate through.  
 Enjoy!
 
-`^(%_[$]0&) `.:.`!`
+```
+    `^(%_[$]0&) `.:.`!`
+```
 
 Vocabulary
 ===
@@ -33,7 +35,7 @@ Emotions
 * % Desire, envy
 * ^ Joy
 * & Curiosity, will of creation, will of sharing
-* * Surprise, disbelief
+* \* Surprise, disbelief
 * 0 Integration to the universe, the Now
 * 1 Integration to oneself, the Now
 * 6 Teasing, playfullness
@@ -48,9 +50,9 @@ Emotions
 * 3 Unmet need, withdrawal
 * 4 Pain (physical), plague
 * : Understanding
-* - Tiredness, exhaustion
+* \- Tiredness, exhaustion
 * _ Calm, serenity
-* + Regrets, remorse, guilt
+* \+ Regrets, remorse, guilt
 * ç Admiration, passion
 * () Concentration
 * [] Dissonance
@@ -77,100 +79,127 @@ Frequent combinaisons
 
 Grammar rules
 ===
-Semioticons reads from the outside to the inside, symbols from one side to another will most often be the same and this means that they surround the central emotion, that at the core is...
+Semioticons reads from the outside to the inside, symbols from one side to another will most often be the same and this means that they surround the central emotion, that at the core is...  
 Like this:
 
+```
     ^_^ (Joy surrounding quietness, quietness at the core of joy)
     >< (Frustration)
     .:. (I'm reflecting, and at the centre of this reflection, there is understanding)
+```
 
-If said symbols are not equating each other, there is a transformation from one to the other. The feeling derived from the first to become the second one, in the encounter of the ones in between.
+If said symbols are not equating each other, there is a transformation from one to the other. The feeling derived from the first to become the second one, in the encounter of the ones in between.  
 
+```
     ^.# (I am happy, yet this joy becomes apprehension after some thoughts)
     ;#@#v (I am sad, fearful, angry, but this sadness becomes hope)
+```
 
-Oft, one might need to transform a whole group into another.
-Most of the time, a simple space is enough to differentiate them,
+Oft, one might need to transform a whole group into another.  
+Most of the time, a simple space is enough to differentiate them
 
+```
      ,_, ^_^ (Quiet of void becomes quiet of joy)
      >@> ;v; (Frustration with anger is now sadness with joy)
+```
 
-However if one fears it might be too ambiguous or if the lecture of a semioticon becomes too tedious, one can escape the first group to indicate that it really is only one emotion.
-Double quotes allows one to limit a group, without altering its meaning.
+However if one fears it might be too ambiguous or if the lecture of a semioticon becomes too tedious, one can escape the first group to indicate that it really is only one emotion.  
+Double quotes allows one to limit a group, without altering its meaning.  
 The semioticon above become thus:
 
+```
     ",_," ^_^
     ">@>" ;v;
+```
 
 NB: It is to be noted that quotes are not required for the second group as there is no ambiguity.
 
-Another symbol that alters the meaning: Simple quotes.
-Upon reading this symbol, one reads its content not from the outside to the inside but from left to right. The feelings inside happen one after the other in an evergoing loop.
+Another symbol that alters the meaning: Simple quotes.  
+Upon reading this symbol, one reads its content not from the outside to the inside but from left to right. The feelings inside happen one after the other in an evergoing loop.  
 
+```
     ';^!=<' (Sadness then joy, disturbance, annoyance and frustration)
     '?.:'  (Self doubt, reflexion then comprehension: Process of thoughts)
+```
 
-If you've read a bit of the symbols, you might have been quite surprised by the vast polyvalence of ~, ! and =. That is normal: They are but modifiers.
-Every syntaxic symbols also bear a semantic one, henceforth their aim is twofold:
-If a modifier is opposite another one, then it marks a progression on the volume of the depicted feeling
+If you've read a bit of the symbols, you might have been quite surprised by the vast polyvalence of ~, ! and =. That is normal: They are but modifiers.  
+Every syntaxic symbols also bear a semantic one, henceforth their aim is twofold:  
+If a modifier is opposite another one, then it marks a progression on the volume of the depicted feeling  
 
+```
     !'4+'~ (The great plague interwined with remorse are fading away to wither)
     !^6^! (Strong joy about playfulness, teasing)
+```
 
-Yet sometimes, they can themselve be emotions. Their signification depends on context, ~ reads as a diminution of the overgoing feeling, in an happy global emotion it could be relief, in a sad one, disapointment.
+Yet sometimes, they can themselve be emotions. Their signification depends on context, ~ reads as a diminution of the overgoing feeling, in an happy global emotion it could be relief, in a sad one, disapointment.  
 
+```
      ^~^ (Relief)
      #><! (Fear, at the centre of it frustration, the fears grow in a sort of restlessness)
+```
 
-It can feel a little weird, but you get used to it fairly quickly.
-One can escape modifiers with double quotes to express they are to be read as feelings.
+It can feel a little weird, but you get used to it fairly quickly.  
+One can escape modifiers with double quotes to express they are to be read as feelings.  
 
+```
     !^"!"^! (Strong joy tinched by excitation)
+```
 
 Two last rules:
-In most cases, a symbol that surrounds an emotions can only appear in afformentioned emotion only in a group that escape it.
-Nonetheless there is a subtle and special rule that bends this interdiction:
-If one repeats a set of elementary symbols one after the other, it means that
-these feelings are interwined, twined:
+In most cases, a symbol that surrounds an emotions can only appear in afformentioned emotion only in a group that escape it.  
+Nonetheless there is a subtle and special rule that bends this interdiction:  
+If one repeats a set of elementary symbols one after the other, it means that these feelings are interwined, twined:  
 
+```
     0:0: Fathoming the logos
     _~_~ Rest and relief
+```
 
 One can of course stuff this in between
 
+```
     0:$:0 Accessing the universe, at the centre there is sastisfaction
     _~(.?.)_~ Quiet and relief, at the centre there is reflexion, and doubt
+```
 
 If emotions are complex, the symmetry rule can become combersome like so:
 
+```
     ^%^ ">/<" ^%^ (Joy with desire, meets frustatrion/embarassement at its center)
+```
 
-The last smiley can be tiring to write, especially if it becomes more complex.
-That is why we introduce a new notation: Pipes |
-They are read as exactly the emotions they match/are in face of.
+The last smiley can be tiring to write, especially if it becomes more complex.  
+That is why we introduce a new notation: Pipes |  
+They are read as exactly the emotions they match/are in face of.  
 The above semioticon can then be written as
 
+```
     ^%^ ">/<" |
+```
 
-One should note that there is a potential confusion: Does `"^%^ >/< _ ||` mean `^%^ >/< _ >/< ^%^` or `^%^ >/< _ ^%^ >/<`
-The meaning is different ever so slightly, but it calls for a convention.
-The convention is thus: If the two pipes are on the same side, then the feelings are inside one another (the former meaning), and if they alternate in such a fashion: `^%^ | _ >/< |` then the feelings are interwined (the latter)
+One should note that there is a potential confusion: Does `"^%^ >/< _ ||` mean `^%^ >/< _ >/< ^%^` or `^%^ >/< _ ^%^ >/<`  
+The meaning is different ever so slightly, but it calls for a convention.  
+The convention is thus: If the two pipes are on the same side, then the feelings are inside one another (the former meaning), and if they alternate in such a fashion: `^%^ | _ >/< |` then the feelings are interwined (the latter)  
 
 Last technical point, to supperpose feelings, one use the uninflexed emotions in between:
 
+```
      ^6^&^ (Joy surrounding both teasing and curiosity)
      +;+=+ (Remorse conveying both sadness and indiference)
+```
 
 Finally (I lied about this being over), a small recap on groups:
     * ``, (), [] and {} all groups feelings differently (there is thereby no need to circle them with double quotes)
     * `` is used when the feeling is not of the person who is typing, but that this person is taking upon the feeling of another's
     * () when they are talking of feelings about feelings, when one focus on oneself's
     * [], the speaker is trying to get them away, {} to get them closer, to accept them.
+    * mm, the emotions depicted are physical
 
 ```
     [@>@] {0_`_0} (I refuse anger and frustration to embrace integration, quietness and connection)
     ?()? (I'm confused about my feelings)
     >`@#@`/ (I'm frustrated, embarassed about their feeling of anger and fear)
+    m4[]4m (Strong dysphoria or dissonance)
 ```
 
 Suggestions and pseudo FAQ
