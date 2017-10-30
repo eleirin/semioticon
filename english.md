@@ -189,11 +189,12 @@ Last technical point, to supperpose feelings, one use the uninflexed emotions in
 ```
 
 Finally (I lied about this being over), a small recap on groups:
-    * \`\`, (), [] and {} all groups feelings differently (there is thereby no need to circle them with double quotes)
-    * \`\` is used when the feeling is not of the person who is typing, but that this person is taking upon the feeling of another's
-    * () when they are talking of feelings about feelings, when one focus on oneself's
-    * [], the speaker is trying to get them away, {} to get them closer, to accept them.
-    * mm, the emotions depicted are physical
+
+- \`\`, (), [], {} and mm all groups feelings differently (there is thereby no need to circle them with double quotes)
+-  \`\` is used when the feeling is not of the person who is typing, but that this person is taking upon the feeling of another's
+- () when they are talking of feelings about feelings, when one focus on oneself's
+- [], the speaker is trying to get them away, {} to get them closer, to accept them.
+- mm, the emotions depicted are physical
 
 ```
     [@>@] {0_`_0} (I refuse anger and frustration to embrace integration, quietness and connection)
