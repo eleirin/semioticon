@@ -57,14 +57,14 @@ Emotions
 * () Concentration
 * [] Dissonance
 * {} Accordance, integrity, control
-* ` Empathy
+* \` Empathy
 
 Groups
 ---
 * () I'm focusing on those emotions, about those emotions
 * [] I'm trying to stray away from those emotions
 * {} I'm trying to embrace those emotions
-* `` With respect to another person's feelings
+* \`\` With respect to another person's feelings
 * '' These feelings follows one after the other, often in loop (read from left to right)
 * "" Desambiguation (Changes nothing to its meaning, just read this apart)
 * mm On a physical plane
@@ -189,8 +189,8 @@ Last technical point, to supperpose feelings, one use the uninflexed emotions in
 ```
 
 Finally (I lied about this being over), a small recap on groups:
-    * ``, (), [] and {} all groups feelings differently (there is thereby no need to circle them with double quotes)
-    * `` is used when the feeling is not of the person who is typing, but that this person is taking upon the feeling of another's
+    * \`\`, (), [] and {} all groups feelings differently (there is thereby no need to circle them with double quotes)
+    * \`\` is used when the feeling is not of the person who is typing, but that this person is taking upon the feeling of another's
     * () when they are talking of feelings about feelings, when one focus on oneself's
     * [], the speaker is trying to get them away, {} to get them closer, to accept them.
     * mm, the emotions depicted are physical
